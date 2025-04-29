@@ -50,6 +50,7 @@ const onSubmit = (e) => {
             </NavbarContent>
             <NavbarContent justify="end">
                 <NavbarItem className="hidden lg:flex">
+                    
                 </NavbarItem>
                 <NavbarItem>
                 </NavbarItem>
